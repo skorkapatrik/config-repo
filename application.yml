@@ -1,20 +1,20 @@
 mobile-app:
   versions:
-    "0.0.1":
+    "[0.0.1]":
       min-supported-api: 1
       force-update: false
       feature-flags:
         new-login: false
         new-payment-flow: false
 
-    "0.0.2":
+    "[0.0.2]":
       min-supported-api: 2
       force-update: false
       feature-flags:
         new-login: true
         new-payment-flow: false
 
-    "0.0.3":
+    "[0.0.3]":
       min-supported-api: 3
       force-update: true
       update-url: "https://example.com/update"
