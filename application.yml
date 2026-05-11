@@ -6,6 +6,11 @@ mobile-app:
     feature-flags:
       new-login: false
       new-payment-flow: false
+      teszt:
+        alma:
+          korte: 2
+          barack:
+            szilva: 3
 
   versions:
     "[0.0.1]": {}
