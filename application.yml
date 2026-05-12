@@ -10,7 +10,7 @@ mobile-app:
         alma:
           korte: 2
           barack:
-            szilva: 3
+            szilva: 4
 
   versions:
     "[0.0.1]": {}
