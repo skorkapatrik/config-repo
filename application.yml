@@ -1,5 +1,10 @@
 mobile-app:
   defaults:
+    gepjarmuado:
+      enabled: true
+      fizetes:
+        qvik-enabled: true 
+        mypos-enabled: false 
     min-supported-api: 1
     force-update: false
     update-url: null
