@@ -1,35 +1,5 @@
 mobile-app:
   defaults:
     gepjarmuado:
-      enabled: false
-      visible: false
-      fizetes:
-        qvik-enabled: true 
-        mypos-enabled: false 
-    min-supported-api: 1
-    force-update: false
-    update-url: null
-    feature-flags:
-      new-login: false
-      new-payment-flow: false
-      teszt:
-        alma:
-          korte: 2
-          barack:
-            szilva: 4
-
-  versions:
-    "[0.0.1]": {}
-
-    "[0.0.2]":
-      min-supported-api: 2
-      feature-flags:
-        new-login: true
-
-    "[0.0.3]":
-      min-supported-api: 3
-      force-update: true
-      update-url: "https://example.com/update"
-      feature-flags:
-        new-login: true
-        new-payment-flow: true
+      button-name: false
+      title: false
