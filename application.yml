@@ -1,7 +1,7 @@
 mobile-app:
   defaults:
     gepjarmuado:
-      enabled: true
+      enabled: false
       visible: true
       fizetes:
         qvik-enabled: true 
