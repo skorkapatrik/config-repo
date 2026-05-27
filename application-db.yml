@@ -1,5 +1,5 @@
 mobile-app:
   defaults:
     gepjarmuado:
-      button-name: false
-      title: false
+      button-name: "Gépjárműadó"
+      title: "Gépjárműadó lekérdezés"
